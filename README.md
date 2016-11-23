@@ -1,13 +1,13 @@
 # GScheduler
-This open source project for an Android App, GScheduler.
+This open source project for an Android App, GScheduler.<br>
 The App works like timer and reminder for the person who works across all over the world.
 
 # Function
-Register timer(reminder)
-Remind by notificaiton
-Edit
-Repeat
-List up
+Register timer(reminder)<br>
+Remind by notificaiton<br>
+Edit<br>
+Repeat<br>
+List up<br>
 Show the time in your location on the timer
 
 # outline image

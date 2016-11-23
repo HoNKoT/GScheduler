@@ -12,4 +12,4 @@ Show the time in your location on the timer
 
 # outline image
 
-under construction..
+![under construction..](https://raw.github.com/wiki/HoNKoT/GScheduler/images/gscheduler_outline.jpg)
